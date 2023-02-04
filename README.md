@@ -1,16 +1,17 @@
-### Hi there 👋
+> **Hello There!**
+> Welcome to my profile. Nothing much here, though.
 
-<!--
-**danielalokies/danielalokies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Daniela Beck (Daniela Lokies)
+- 📫 Contact me via email: hellolokies@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact abt me: I started coding when I was 8 years old
 
-Here are some ideas to get you started:
+## My Studies
+- Software Engineering on Texas Tech University
+- Master's in Cyber Security on Texas Tech University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I use
+![Technologies](https://skillicons.dev/icons?i=js,html,css,discord,nodejs,py,react,cpp,c,php,webflow,vscode&theme=dark&perline=6)]
+
+## Extra Communication
+Apart from my [e-Mail](mailto:hellolokies@gmail.com), you can contact me via **Discord**. My tag is: The Official Dani Dev#6785
