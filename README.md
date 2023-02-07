@@ -11,7 +11,7 @@
 - Master's in Cyber Security on Texas Tech University
 
 ## Technologies I use
-![Technologies](https://skillicons.dev/icons?i=js,html,css,discord,nodejs,py,react,cpp,c,php,webflow,vscode&theme=dark&perline=6)]
+![Technologies](https://skillicons.dev/icons?i=js,html,css,discord,nodejs,py,react,cpp,c,ts,webflow,vscode&theme=dark&perline=6)]
 
 ## Extra Communication
 Apart from my [e-Mail](mailto:hellolokies@gmail.com), you can contact me via **Discord**. My tag is: The Official Dani Dev#6785
